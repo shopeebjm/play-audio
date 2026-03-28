@@ -41,13 +41,7 @@ Jalankan `man play-audio` Untuk Petunjuk Penggunaan.
 <a href="https://github.com/shopeebjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
 <a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 
-<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
-</h2>
-</div>
-<h2 align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shopeebjm&layout=compact&theme=green">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=shopeebjm&count_private=true&show_icons=true&theme=green">
-<h2 align="center">
+<a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'>
 
 - Kritik & Saran
 - [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/shopee.bjm/)
