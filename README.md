@@ -32,7 +32,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 ```
 packages install play-audio
 ```
-Jalankan `man play-audio` Untuk Petunjuk Penggunaan.
+- Jalankan `man play-audio` Untuk Petunjuk Penggunaan.
 
 # Social Media
 
